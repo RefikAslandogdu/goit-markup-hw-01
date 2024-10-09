@@ -1,0 +1,371 @@
+
+.body {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+}
+header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    display: inline-block;
+}
+ul li {
+    display: inline-block
+}
+.logo-web {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #4D5AE5;
+    text-decoration: none;
+    width: Hug (115px)px;
+    height: Fixed (24px)px;
+    top: 24px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 24px;
+    margin-left: 156px;
+}
+.logo-studio {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-decoration: none;
+    width: Hug (115px)px;
+    height: Fixed (24px)px;
+    top: 24px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+    color: #2E2F42;
+}
+.header-menu {
+    display: flex;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    gap: 40px;
+    color: #2E2F42;
+    display: inline-block;
+    margin-top: 24px;
+}
+.contacts li {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    font-style: normal;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.header-menu li {
+    display: inline-block;
+    margin-left: 40px;
+}
+.banner-yazi {
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 200px;
+}
+.order-button {
+    width: Hug (169px)px;
+    height: Hug (56px)px;
+    top: 428px;
+    left: 636px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.banner {
+    width: 100%;
+    max-width: 100%;
+    height: 600px;
+    padding: 20px;
+    background-color: #2E2F42;
+    text-align: center;
+}
+.banner-yazi {
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+    opacity: 0px;
+
+}
+.order-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    width: Hug (169px)px;
+    height: Hug (56px)px;
+    top: 428px;
+    left: 636px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    border-radius: 4px 4px 4px 4px;
+    opacity: 0px;
+    box-shadow: 0px 4px 4px 0px #00000026;
+}
+   
+.our-services {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 5px;
+    list-style-type: none;
+}
+
+.our-services li {
+    background-color: #FFFFFF;
+    padding: 5px;
+    margin: 5px;
+    width: 264px;
+    margin-left: 156px;
+}
+
+.baslik-3 {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    width: 264px;
+
+}
+
+.icerik {
+    margin-top: 10px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.our-team-kutu {
+    height: 732px;
+    background-color: #F4F4FD;
+    font-family: Roboto;
+    width: %100;
+    list-style-type: none;
+}
+.our-team li {
+    width: 264;
+    height: 380;
+    background-color: #FFFFFF;
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 156px;
+}
+.our-team-header {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 72px;
+}
+.container1 {
+    width: 264px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
+    object-position: %50 2%;
+    width: Hug (264px)px;
+    height: Hug (380px)px;
+    left: 156px;
+    padding: 0px 0px 32px 0px;
+    gap: 32px;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 0px;
+
+}
+.container2 {
+    width: 264px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
+    display: flex;
+    align-items: center;
+    width: Hug (264px)px;
+    height: Hug (380px)px;
+    left: 156px;
+    padding: 0px 0px 32px 0px;
+    gap: 32px;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 0px;
+
+}
+.container3 {
+    width: 264px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
+    display: flex;
+    align-items: center;
+    width: Hug (264px)px;
+    height: Hug (380px)px;
+    left: 156px;
+    padding: 0px 0px 32px 0px;
+    gap: 32px;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 0px;
+}
+.container4 {
+    width: 264px;
+    height: 260px;
+    object-fit: cover;
+    object-position: top;
+    display: flex;
+    align-items: center;
+    width: Hug (264px)px;
+    height: Hug (380px)px;
+    left: 156px;
+    padding: 0px 0px 32px 0px;
+    gap: 32px;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 0px;
+}
+.team-name {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.team-job {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+}
+.our-portfolio image {
+    width: 360;
+    height: 300;
+    background-color: #FFFFFF;
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 156px;
+}
+.our-portfolio li {
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 156px;
+}
+.port-container {
+    width: 360px;
+    height: 300px;
+    top: 300px;
+    gap: 8px;
+    border: 0px 1px 1px 1px;
+    opacity: 0px;
+    object-fit: cover;
+}
+.port-name {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.port-section {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.footer {
+    background-color: #2E2F42;
+    height: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logo-studio-footer {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-decoration: none;
+    width: Hug (115px)px;
+    height: Fixed (24px)px;
+    top: 100px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+    color: #F4F4FD;
+    }
+.logo-web-footer {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #4D5AE5;
+    text-decoration: none;
+    width: Hug (115px)px;
+    height: Fixed (24px)px;
+    top: 24px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 100px;
+    margin-left: 156px;
+}
+.footer-content {
+    color: #F4F4FD;
+    margin-left: 156px;
+    width: 264px;
+    flex-wrap: wrap;
+}
